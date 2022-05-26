@@ -1,2 +1,4 @@
 #!/bin/bash
 chown vincent hello, chgrp staff hello
+#!/bin/bash
+chown -R vincent:staff
