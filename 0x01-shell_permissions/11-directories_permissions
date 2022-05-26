@@ -1,2 +1,2 @@
 #!/bin/bash
-f -exec chmod a+x hello
+-type f -exec chmod a+x hello
